@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VBG &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portal web del OMEGS</description>
+	<lastBuildDate>Sun, 01 Dec 2024 05:16:19 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/11/omegs_favicon-1.png</url>
+	<title>VBG &#8211; Observatorio de Mujeres y Equidad de Género de Santander</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Capacitación: VBG, estándares de atención y actualización normativa</title>
+		<link>./../../../2024/11/26/capacitacion-vbg-estandares-de-atencion-y-actualizacion-normativa/index.html</link>
+					<comments>./../../../2024/11/26/capacitacion-vbg-estandares-de-atencion-y-actualizacion-normativa/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 01:18:59 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[VBG]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=311</guid>
+
+					<description><![CDATA[La Policía Metropolitana de Bucaramanga fortalece sus conocimientos frente a las violencias basadas en género. ]]></description>
+										<content:encoded><![CDATA[
+<p>El Observatorio de Mujeres y Equidad de Género lideró una importante jornada de capacitación con integrantes de la Policía Metropolitana de Bucaramanga, en las instalaciones de la Universidad Industrial de Santander, sede Bucarica. Esta iniciativa se enmarca en los esfuerzos continuos por fortalecer la respuesta institucional frente a las violencias basadas en género en el departamento.</p>
+
+
+
+<p>Durante la sesión formativa, el cuerpo de policía participó para actualizar sus conocimientos sobre las violencias basadas en género y estándares de atención. Este espacio representa un paso más en la consolidación de una red institucional sólida para la prevención y atención de las violencias de género en Santander. El OMEGS reitera su compromiso de seguir desarrollando estas jornadas formativas, que refuerzan la capacidad de respuesta de las instituciones frente a esta problemática.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2024/11/26/capacitacion-vbg-estandares-de-atencion-y-actualizacion-normativa/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
