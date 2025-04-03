@@ -150,3 +150,8 @@ Text Domain:  temaomegschild
 .contrast-govco p {
   color: var(--govcolor-white);
 }
+
+
+.wp-block-spacer{
+display:none;
+}
